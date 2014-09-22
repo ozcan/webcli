@@ -1,7 +1,7 @@
 webcli
 ======
 
-Single-file python script that builds web inerface for command line programs based on their man page.
+Single-file python script that builds web interface for command line programs based on their man page.
 
 #### Requirements
 [Bottle Framework](https://pypi.python.org/pypi/bottle), UI built using [JQuery](https://jquery.com/) and [Bootstrap](http://getbootstrap.com/)
