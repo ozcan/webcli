@@ -7,7 +7,7 @@ Single-file python script that builds web inerface for command line programs bas
 [Bottle Framework](https://pypi.python.org/pypi/bottle), UI built using [JQuery](https://jquery.com/) and [Bootstrap](http://getbootstrap.com/)
 
 #### Usage
-> python webcli.py ls
+> python webcli.py <program name (example "ls")>
 
 This will automatically open your default web browser, if doesn't open http://localhost:8081 manually.
 
